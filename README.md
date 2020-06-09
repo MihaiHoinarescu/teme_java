@@ -1,2 +1,2 @@
 # teme_java
-Teme Java an 2 ID titu titulescu
+Abandon all hope, ye who enter here.
